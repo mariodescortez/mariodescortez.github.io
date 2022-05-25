@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mario Cortez Portfolio
 
 You can use the [editor on GitHub](https://github.com/mariodescortez/mariodescortez.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# I am a professional with a desire to always learn, I started as an engineer, then I worked in marketing and then as a Business Analyst. I now have Big Data skills that allow me to offer a more complete job.
 ## Header 2
 ### Header 3
 
